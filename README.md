@@ -39,10 +39,10 @@ On the frontend, I focused on designing and implementing doctor-related features
 
 <u>Group that Coded/Created this Prototype (Fall '24):</u>
 
-- [Martin Gawron](https://github.com/martingaw11) 
-- [Nolan Reilly](https://github.com/nolan-reilly)
 - [Micah Olugbamila](https://github.com/M-i-c-a-h)
 - [Maryann Olugbamila](https://github.com/MaryannO45)
+- [Martin Gawron](https://github.com/martingaw11) 
+- [Nolan Reilly](https://github.com/nolan-reilly)
 
 <u>Group that Originally Proposed the Project (Fall '22):</u>
 
